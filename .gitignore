@@ -1,0 +1,16 @@
+
+# Ignore Go build artifacts
+*.exe
+*.bin
+*.out
+
+/vids/
+
+# Ignore common large media file types that might accidentally show up
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Ignore IDE/editor files
+.vscode/
